@@ -1,5 +1,5 @@
 {
-  "name": "tsujamin's Add-ons",
-  "url": "https://github.com/tsujamin/hass-addons",
+  "name": "tsujamin's Add-ons (via hedlund's fork)",
+  "url": "https://github.com/hedlund/hass-addons",
   "maintainer": "@tsujamin"
 }
